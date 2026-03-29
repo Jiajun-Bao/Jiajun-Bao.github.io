@@ -1,34 +1,32 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p style="font-size: 0.95em;">657 Rhodes Hall,<br>Cornell University,<br>Ithaca, NY 14853</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a second-year PhD student in the [Center for Applied Mathematics](https://cam.cornell.edu) at Cornell University, advised by Prof. [Christopher Earls](https://earls.cee.cornell.edu). I received my M.S. in Computational and Applied Mathematics from the University of Chicago, advised by Prof. [Daniel Sanz-Alonso](https://sites.google.com/a/uchicago.edu/sanz-alonso/bio?authuser=0), and B.S. in Applied Mathematics from the University of Washington, where I worked with Prof. [Jason Bramburger](https://hybrid.concordia.ca/jbrambur/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research lies at the intersection of applied mathematics and machine learning. Broadly, I am interested in using data-driven methods to model, predict, and control the dynamics of complex systems.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Currently, I focus on large language model interpretability, studying LLMs as complex systems using tools from dynamical systems theory and partial differential equations to investigate how these models process and reason from data. My goal is to use interpretability, grounded in a mathematical perspective, to understand, learn from, and guide the design of AI systems.

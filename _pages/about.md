@@ -29,4 +29,4 @@ I am a second-year PhD student in the [Center for Applied Mathematics](https://c
 
 My research lies at the intersection of applied mathematics and machine learning. Broadly, I am interested in using data-driven methods to model, predict, and control the dynamics of complex systems.
 
-Currently, I focus on large language model interpretability, studying LLMs as complex systems using tools from dynamical systems theory and partial differential equations to investigate how these models process and reason from data. My goal is to use interpretability, grounded in a mathematical perspective, to understand, learn from, and guide the design of AI systems.
+Currently, I focus on large language model interpretability, studying LLMs as complex systems through the lens of dynamical systems theory and partial differential equations. I investigate how these models learn, represent, and reason from data. My goal is to use interpretability, grounded in a mathematical perspective, to understand, learn from, and guide the design of AI systems.

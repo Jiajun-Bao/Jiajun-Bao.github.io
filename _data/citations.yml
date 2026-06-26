@@ -1,7 +1,7 @@
 metadata:
-  last_updated: '2026-05-25'
+  last_updated: '2026-06-26'
 papers:
-  1eQvygMAAAAJ:Y0pCki6q_DkC:
+  1eQvygMAAAAJ:WF5omc3nYNoC:
     citations: 4
     title: Text-Trained LLMs Can Zero-Shot Extrapolate PDE Dynamics, Revealing a Three-Stage In-Context Learning Mechanism
     year: '2025'

@@ -1,11 +1,11 @@
 metadata:
-  last_updated: '2026-07-13'
+  last_updated: '2026-08-03'
 papers:
   1eQvygMAAAAJ:WF5omc3nYNoC:
-    citations: 5
+    citations: 6
     title: Text-Trained LLMs Can Zero-Shot Extrapolate PDE Dynamics, Revealing a Three-Stage In-Context Learning Mechanism
     year: '2025'
   1eQvygMAAAAJ:u-x6o8ySG0sC:
-    citations: 16
+    citations: 15
     title: Ensemble Kalman filters with resampling
     year: '2024'

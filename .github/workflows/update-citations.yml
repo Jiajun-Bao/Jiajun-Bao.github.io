@@ -2,9 +2,7 @@ name: Update Google Scholar Citations
 
 on:
   schedule:
-    - cron: "0 0 * * 1" # Monday
-    - cron: "0 0 * * 3" # Wednesday
-    - cron: "0 0 * * 5" # Friday
+    - cron: "0 0 1 * *" # First day of each month at 00:00 UTC
   workflow_dispatch:
 
 jobs:
@@ -87,8 +85,8 @@ jobs:
 
       - name: Configure Git
         run: |
-          git config --local user.email "actions@github.com"
-          git config --local user.name "GitHub Actions"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
           echo "🔧 Git configured."
 
       - name: Commit and push if changed

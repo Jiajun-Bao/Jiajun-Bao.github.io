@@ -25,8 +25,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a third-year PhD student in the [Center for Applied Mathematics](https://cam.cornell.edu) at Cornell University, advised by Prof. [Christopher Earls](https://earls.cee.cornell.edu). I received my M.S. in Computational and Applied Mathematics from the University of Chicago, advised by Prof. [Daniel Sanz-Alonso](https://sites.google.com/a/uchicago.edu/sanz-alonso/bio?authuser=0), and B.S. in Applied Mathematics from the University of Washington, where I worked with Prof. [Jason Bramburger](https://hybrid.concordia.ca/jbrambur/).
+I am a third-year PhD student in the [Center for Applied Mathematics](https://cam.cornell.edu) at Cornell University, advised by Prof. [Christopher Earls](https://earls.cee.cornell.edu).
 
 My research lies at the intersection of applied mathematics and machine learning. Broadly, I am interested in using data-driven methods to model, predict, and control the dynamics of complex systems.
 
 Currently, I focus on large language model interpretability, studying LLMs as complex systems through the lens of dynamical systems theory and graph signal processing. I investigate how these models learn, represent, and reason from data. My goal is to use interpretability, grounded in a mathematical perspective, to understand, learn from, and guide the design of AI systems.
+
+Prior to Cornell, I received my M.S. in Computational and Applied Mathematics from the University of Chicago, where I was advised by Prof. [Daniel Sanz-Alonso](https://sites.google.com/a/uchicago.edu/sanz-alonso/bio?authuser=0), and my B.S. in Applied Mathematics from the University of Washington, where I worked with Prof. [Jason Bramburger](https://hybrid.concordia.ca/jbrambur/).

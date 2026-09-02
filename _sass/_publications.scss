@@ -61,6 +61,17 @@
           }
         }
 
+        .venue-badges {
+          display: flex;
+          flex-direction: column;
+          gap: 0.5rem;
+          margin-bottom: 0.5rem;
+
+          abbr {
+            margin-bottom: 0;
+          }
+        }
+
         .award {
           color: var(--global-theme-color) !important;
           border: 1px solid var(--global-theme-color);

@@ -13,6 +13,6 @@ nav_order: 1
 
 <div class="publications">
 
-{% bibliography --group_by none %}
+{% bibliography %}
 
 </div>
